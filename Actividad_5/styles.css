@@ -1,0 +1,29 @@
+.container{
+    font-size: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+    grid-template-rows: 1fr 1fr;
+    background-color: lightgray ;
+    width: 100%;
+}
+
+.d1{
+    background-color: blue;
+}
+
+.d2{
+background-color:orange;
+}
+
+.d3{
+    background-color: turquoise;
+}
+
+.d4{
+    background-color: pink;
+}
+
+.d5{
+    background-color:green;
+}
